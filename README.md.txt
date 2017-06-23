@@ -4,5 +4,5 @@ A few things to consider:
 - Install nodemon globally:
 	npm install nodemon -g --save
 - To run your app:
-	On one cmd:	npm run build (this runs webpack -w)
-	On another:	npm run start (this runs nodemon server)
+	- On one cmd:	npm run build (this runs webpack -w)
+	- On another:	npm run start (this runs nodemon server)
